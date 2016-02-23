@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">联系人</string>
+    <string name="action_settings">设置</string>
+    <string name="confirm">确定</string>
+    <string name="add">添加</string>
+    <string name="cancel">取消</string>
+    <string name="contact_name">姓名</string>
+    <string name="contact_number">电话</string>
+    <string name="call">打电话</string>
+    <string name="text">发短息</string>
+    <string name="update">修改联系人</string>
+</resources>
